@@ -1,0 +1,29 @@
+title: Depression level analysis using hybrid machine learning approach.
+
+mention methods used in Abstract
+
+mention the source of dataset in abstract
+
+change the format of slide of abstract
+
+add place of publishing to literature survey
+
+define problem solved by each paper in literature survey
+
+literature survey: oldest to newest
+
+problem definition in proposed system
+
+mention bullets points in proposed system
+
+define input specifically
+
+proposed architecture for audio input, proposed architecture for textual input
+
+mention majority voting
+
+model generalisation
+
+remove all the codes in PPT
+
+reference before conclusion
